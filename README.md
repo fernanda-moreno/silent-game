@@ -1,4 +1,5 @@
 # Silent-Game
+A 2-player laser beam building game developed with a team for my Intro to Computational Media class. The first player arranges obstacles with mirrors and blocks for the second player to figure out how to reach the target with one or more lasers.
 
 ## Installation
 1. To run this application on your computer, download [Processing](https://processing.org/download/).
